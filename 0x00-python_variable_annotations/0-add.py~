@@ -1,6 +1,0 @@
-#!/usr/bin/env python3
-"""Type annonated function."""
-""" Define the function with type annotations"""
-function add(a: number, b: number): number {
-  return a + b;
-}
