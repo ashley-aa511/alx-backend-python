@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
-"""Define a type function that takes a float and returns a string repof the float"""
+""" Basic annotations - to string  """
+
+
 def to_str(n: float) -> str:
+    """ Returns the string representation of the float. """
     return str(n)
